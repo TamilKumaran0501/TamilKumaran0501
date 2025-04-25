@@ -44,6 +44,7 @@ Welcome to my GitHub profile! I'm a **3rd-year Computer Science Engineering stud
 ---
 
 ## 📬 Let’s Connect   
+- 💼 [LinkedIn](https://www.linkedin.com/in/tamil-kumaran-v/)  
 - 📨 [Email](mailto:tamilkumaran0003@gmail.com)  
 
 ---
